@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockScissorsGame", "RockSci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Project1\Test.csproj", "{DBD3DEBD-7F14-423E-983D-AA698D6AE281}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsBasedColorMixer", "WindowsBasedColorMixer\WindowsBasedColorMixer.csproj", "{8B728CA3-6568-4CE8-BDE5-290CE99B20D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCreator", "TestCreator\TestCreator.csproj", "{931504F3-2A43-4840-A465-52C31579CC7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{DBD3DEBD-7F14-423E-983D-AA698D6AE281}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBD3DEBD-7F14-423E-983D-AA698D6AE281}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBD3DEBD-7F14-423E-983D-AA698D6AE281}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B728CA3-6568-4CE8-BDE5-290CE99B20D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B728CA3-6568-4CE8-BDE5-290CE99B20D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B728CA3-6568-4CE8-BDE5-290CE99B20D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B728CA3-6568-4CE8-BDE5-290CE99B20D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{931504F3-2A43-4840-A465-52C31579CC7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931504F3-2A43-4840-A465-52C31579CC7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931504F3-2A43-4840-A465-52C31579CC7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931504F3-2A43-4840-A465-52C31579CC7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
